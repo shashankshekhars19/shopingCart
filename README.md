@@ -6,4 +6,6 @@ Customer App
 
 Address App
 
-Microservices 
+Microservices gateway for accessing both microservices
+
+
